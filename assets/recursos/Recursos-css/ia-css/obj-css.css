@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+
+.text{
+    letter-spacing: 333px;
+}
+.page{
+    display: flex;
+    flex-direction: row;
+}
